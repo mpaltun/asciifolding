@@ -6,6 +6,7 @@ description = "ascii folding library"
 keywords = ["ascii", "folding", "lucene", "unicode"]
 repository = "https://github.com/mpaltun/asciifolding"
 readme = "README.md"
+license = "Apache-2.0"
 edition = "2018"
 
 [dependencies]
