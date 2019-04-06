@@ -1,4 +1,5 @@
 # asciifolding
+[![Build Status](https://travis-ci.com/mpaltun/asciifolding.svg?branch=master)](https://travis-ci.com/mpaltun/asciifolding)
 Rust port of Lucene's [Ascii folding filter](http://lucene.apache.org/core/8_0_0/analyzers-common/org/apache/lucene/analysis/miscellaneous/ASCIIFoldingFilter.html)
 
 From Lucene documentation:
