@@ -1,0 +1,12 @@
+[package]
+name = "asciifolding"
+version = "0.1.0"
+authors = ["Mustafa Paltun <mpaltun@gmail.com>"]
+description = "ascii folding library"
+keywords = ["ascii", "folding", "lucene", "unicode"]
+repository = "https://github.com/mpaltun/asciifolding"
+readme = "README.md"
+license = "MIT"
+edition = "2018"
+
+[dependencies]
